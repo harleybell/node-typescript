@@ -30,6 +30,9 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
+# Output of 'npm build'
+build/
+
 # dotenv environment variables file
 .env
 
